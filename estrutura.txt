@@ -1,0 +1,15 @@
+manipulacao_dados/
+│
+├── .env
+├── requirements.txt
+├── relatorio.csv                 ← seu arquivo original
+├── src/
+│   └── manipulacao_dados.py      ← script principal
+├── tests/
+│   └── test_validacoes.py        ← testes simples
+├── output/
+│   ├── relatorio_limpo.csv
+│   ├── relatorio_limpo.parquet
+│   └── relatorio_limpo.json
+└── docs/
+    └── relatorio_qualidade.html  ← relatório automático de qualidade

@@ -1,0 +1,104 @@
+🌐 3. Requests e APIs
+Consumir APIs REST
+
+Autenticação (Bearer, Basic, Tokens)
+
+JSON, XML
+
+Testar endpoints
+
+
+🧪 2. Automação de tarefas e scripts
+Automação de rotinas repetitivas
+
+Manipulação de arquivos e diretórios
+
+Agendamento de scripts
+
+Uso de bibliotecas como:
+
+os, shutil, pathlib
+
+subprocess
+
+logging
+------------------
+Etapa 2
+⚡ 1. Selenium / Automação Web
+Automação de sites
+
+Web scraping avançado
+
+Testes end-to-end
+
+🤖 2. RPA (Automação de Processos)
+UiPath, Automation Anywhere, Power Automate
+
+Ou RPA com Python puro (PyAutoGUI, Playwright)
+
+🧩 3. Playwright (muito valorizado hoje)
+Mais moderno que Selenium
+
+Mais rápido
+
+Muito usado em empresas grandes
+
+🐳 4. Docker
+Empacotar scripts
+
+Rodar automações em containers
+
+🔄 5. CI/CD
+GitHub Actions
+
+GitLab CI
+
+Jenkins
+
+📦 6. Conhecimento de Cloud
+AWS Lambda
+
+Azure Functions
+
+S3 / Blob Storage
+
+🧠 7. Arquitetura de automação
+Saber estruturar projetos
+
+Modularização
+
+Boas práticas
+--------------
+Parte 3 (Boss final)
+🧠 1. Conhecimento de bancos de dados
+SQL (MySQL, PostgreSQL)
+
+NoSQL (MongoDB)
+
+🔍 2. Web Scraping avançado
+BeautifulSoup
+
+Scrapy
+
+Anti-bot bypass (headers, proxies, delays)
+
+📊 3. Dashboards / Relatórios automatizados
+Power BI
+
+Streamlit
+
+Dash
+
+🧬 4. Automação com IA
+Usar APIs de IA para enriquecer automações
+
+Classificação de textos
+
+Extração inteligente
+
+🧾 5. Documentação clara
+README bem feito
+
+Comentários úteis
+
+Estrutura limpa
